@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是王旭（Xu Wang），目前是湖南大学信息科学与工程学院计算机科学与技术专业的硕士研究生（2023年9月至今），师从**李瑞辉教授**（海外优青）。此前，我于2023年6月在桂林电子科技大学人工智能学院获得数据科学与大数据技术学士学位。
+I am **Xu Wang**, currently a Master's student in Computer Science and Technology at the College of Information Science and Engineering, **Hunan University** (Sept. 2023 - Present), supervised by **Prof. Ruihui Li** (Overseas Excellent Youth). Previously, I received my Bachelor's degree in Data Science and Big Data Technology from the School of Artificial Intelligence, **Guilin University of Electronic Technology** in June 2023.
 
-我的性格开朗，热情真诚，做事严谨，脚踏实地。我热爱科研，积极参与科研项目，密切关注领域内的最新动态。
+I am cheerful, enthusiastic, sincere, rigorous, and down-to-earth. I am passionate about scientific research, actively participate in research projects, and keep a close eye on the latest developments in the field.
 
-我的研究兴趣主要集中在：
+My research interests focus on:
 - 3D Gaussian Splatting (3DGS)
 - SLAM (Simultaneous Localization and Mapping)
 - 3D Reconstruction
@@ -29,13 +29,13 @@ redirect_from:
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2023.09 - 至今*, 湖南大学, 湖南长沙, 硕士 (计算机科学与技术)
-- *2019.09 - 2023.06*, 桂林电子科技大学, 广西桂林, 学士 (数据科学与大数据技术)
+# 🎓 Education
+- *Sept. 2023 - Present*, **Hunan University**, Changsha, Hunan, Master (Computer Science and Technology)
+- *Sept. 2019 - June 2023*, **Guilin University of Electronic Technology**, Guilin, Guangxi, Bachelor (Data Science and Big Data Technology)
 
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文成果
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,38 +60,38 @@ redirect_from:
 
 <span class='anchor' id='-kyjl'></span>
 
-# 🔬 科研经历
+# 🔬 Research Experience
 
-### 基于3D高斯喷溅（3DGS）的RGB-D SLAM系统研究
-*研究课题*
-该课题主要研究基于3D高斯喷溅技术的RGB-D SLAM系统构建，创新神经高斯表示、喷溅渲染与位姿优化方法，实现场景结构一致、鲁棒定位及高保真3D重建渲染。主要工作如下：
-- 结合分层约束神经高斯表示与多级Gaussian Splatting初始化，实现结构一致与细节分层重建，与其他方法比几何误差降低22.3%、重建质量提升12.36%。
-- 提出渐进式位姿优化与动态高斯节点分布策略，有效抑制深度噪声并自适应几何复杂度，与其他方法比追踪速度提升25倍、建图速度提升5倍。
+### Research on RGB-D SLAM System Based on 3D Gaussian Splatting (3DGS)
+*Research Topic*
+This project mainly studies the construction of an RGB-D SLAM system based on 3D Gaussian Splatting technology, innovating neural Gaussian representation, splatting rendering, and pose optimization methods to achieve scene structural consistency, robust localization, and high-fidelity 3D reconstruction rendering. Main work includes:
+- Combined hierarchical constrained neural Gaussian representation with multi-level Gaussian Splatting initialization to achieve structural consistency and detailed hierarchical reconstruction, reducing geometric error by 22.3% and improving reconstruction quality by 12.36% compared to other methods.
+- Proposed progressive pose optimization and dynamic Gaussian node distribution strategies, effectively suppressing depth noise and adapting to geometric complexity, increasing tracking speed by 25 times and mapping speed by 5 times compared to other methods.
 
-### “跨越险阻2023”陆上无人系统
-*项目成员*
-将自主机动环境感知与建模软件系统接入测试系统，接收离线测试数据（越野环境数据采集并标定），完成通行区域环境感知与建模、机动障碍识别等智能算法测试。主要工作如下：
-- 基于ROS框架与Faster-LIO算法完成实时高精度里程计与环境建图。
-- 将GPS数据与IMU紧耦合滤波，实现全局定位误差小于1米。
+### "Crossing Obstacles 2023" Land Unmanned System
+*Project Member*
+Integrated the autonomous maneuvering environmental perception and modeling software system into the test system, received offline test data (off-road environment data collection and calibration), and completed intelligent algorithm tests such as passable area environmental perception and modeling, and maneuvering obstacle recognition. Main work includes:
+- Completed real-time high-precision odometry and environmental mapping based on the ROS framework and Faster-LIO algorithm.
+- Tightly coupled GPS data with IMU filtering to achieve a global positioning error of less than 1 meter.
 
-### 国家自然科学基金项目
-参与导师的国家自然科学基金重大项目，国家自然科学基金面上项目，协助撰写项目书申报等。
+### National Natural Science Foundation Projects
+Participated in the supervisor's National Natural Science Foundation Major Project and General Project, assisting in writing project proposals, etc.
 
 <span class='anchor' id='-ryjx'></span>
 
-# 🏅 荣誉奖项
-- 硕士研究生国家奖学金
-- 自治区人民政府奖学金 (2次)
-- 本科生一等奖学金 (3次)
-- 高教社杯全国大学生数学建模竞赛 一等奖
-- 中国工程机器人大赛暨国际公开赛 一等奖
-- 中国机器人及人工智能大赛 二等奖
-- 研究生计算机创新大赛 二等奖
-- “华为挑战杯”高斯重建大赛 三等奖
+# 🏅 Honors and Awards
+- National Scholarship for Graduate Students
+- Autonomous Region Government Scholarship (2 times)
+- Undergraduate First Class Scholarship (3 times)
+- First Prize, "Higher Education Press Cup" National Undergraduate Mathematical Contest in Modeling
+- First Prize, China Engineering Robot Competition and International Open
+- Second Prize, China Robot & Artificial Intelligence Competition
+- Second Prize, Graduate Computer Innovation Competition
+- Third Prize, "Huawei Challenge" Gaussian Reconstruction Competition
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 校内经历
-- 班级团支书
-- 学生会委员
-- 研究生助教
+# 💻 Campus Experience
+- Class League Secretary
+- Student Union Member
+- Graduate Teaching Assistant

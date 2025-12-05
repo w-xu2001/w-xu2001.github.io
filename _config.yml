@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "王旭"
-description              : "个人主页"
+title                    : "Xu Wang"
+description              : "Personal Homepage"
 repository               : "w-xu2001/w-xu2001.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "王旭"
+  name             : "Xu Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "湖南大学"
-  location         : "湖南 长沙"
+  bio              : "Hunan University"
+  location         : "Changsha, Hunan"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=..."
