@@ -3,7 +3,7 @@
 ## 🎙 Speech Synthesis
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/point.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PointSLAM++: Robust Dense Neural Gaussian Point Cloud-based SLAM]() \\
@@ -16,7 +16,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PG 2024</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PG 2024</div><img src='images/msg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MGS-SLAM: Dense RGB-D SLAM via Multi-level Gaussian Splatting.](https://diglib.eg.org/handle/10.2312/pg20241274) \\
