@@ -1,0 +1,10 @@
+I am currently a master’s student in Computer Science and Technology at the College of Information Science and Engineering, Hunan University, advised by Prof. Ruihui Li. My research focuses on visual SLAM and dense 3D reconstruction, with an emphasis on neural scene representations and 3D Gaussian Splatting–based SLAM systems for challenging environments.
+
+I am particularly interested in building robust and geometrically consistent SLAM systems that tightly integrate representation learning, rendering, and pose optimization. My recent work explores multi-level Gaussian representations, progressive optimization strategies, and geometry-aware modeling to improve tracking robustness, reconstruction fidelity, and efficiency in real-world RGB-D and low-light scenarios.
+
+I am the first author of PointSLAM++: Robust Dense Neural Gaussian Point Cloud-based SLAM, accepted by AAAI 2026 (CCF-A), which proposes a dense SLAM framework based on neural Gaussian point cloud representations. I am also the first author of MGS-SLAM: Dense RGB-D SLAM via Multi-level Gaussian Splatting, published at Pacific Graphics 2024 (CCF-B), which introduces a multi-level Gaussian splatting pipeline for structurally consistent and high-fidelity reconstruction. In addition, my ongoing work on geometry-aware intrinsic decomposition for low-light visual SLAM and reconstruction is currently under review at CVPR 2026.
+
+During my graduate studies, I have participated in multiple national-level research projects, including Major and General Programs of the National Natural Science Foundation of China, and gained experience in system-level SLAM development, large-scale experiments, and academic writing.
+
+I am actively seeking PhD opportunities starting in 2026 and am open to academic collaboration in the areas of computer vision, robotics, and SLAM. Please feel free to contact me at xuwang0303@hnu.edu.cn
+.

@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xu Wang"
-description              : "Personal Homepage"
+title                    : "王旭"
+description              : "个人主页"
 repository               : "w-xu2001/w-xu2001.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn googgoogle_analyt # get lee
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# googgoogle_analyt # get le analytics
+google_analyfrom https://analytics.google.com/ # get go/yticsoglefrom https://analytics.google.com/analytics/ytics_id from https://analytics.google.com/analytics/:  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
 google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xu Wang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Hunan University"
-  location         : "Changsha, Hunan"
+  name             : "王旭"
+  avatar           : "images/wx_profile.jpg"
+  bio              : "湖南大学"
+  location         : "湖南 长沙"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=..."
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  orcid            : "https://orcid.org/0000-0002-1213-3877"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -65,15 +65,12 @@ include:
   - _pages
   - files
 exclude:
-  - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -91,6 +88,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - google_scholar_crawler
+  - github_myprofile_updater
 keep_files:
   - .git
   - .svn
