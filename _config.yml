@@ -9,14 +9,14 @@
 title                    : "王旭"
 description              : "个人主页"
 repository               : "w-xu2001/w-xu2001.github.io"
-google_scholar_stats_use_cdn googgoogle_analyt # get lee
+google_scholar_stats_use_cdn : false # get lee
 
 # googgoogle_analyt # get le analytics
-google_analyfrom https://analytics.google.com/ # get go/yticsoglefrom https://analytics.google.com/analytics/ytics_id from https://analytics.google.com/analytics/:  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id       :  # get go/yticsoglefrom https://analytics.google.com/analytics/ytics_id from https://analytics.google.com/analytics/:  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
